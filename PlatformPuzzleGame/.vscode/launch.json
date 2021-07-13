@@ -1,0 +1,128 @@
+{
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"name": "PlatformPuzzleGame (Debug)",
+			"request": "launch",
+			"preLaunchTask": "PlatformPuzzleGame Win64 Debug Build",
+			"program": "C:\\Users\\Paul\\Documents\\Unreal Projects\\PlatformPuzzleGame\\Binaries\\Win64\\UE4-Win64-Debug.exe",
+			"args": [
+			],
+			"cwd": "C:\\Program Files\\Epic Games\\UE_4.26",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "PlatformPuzzleGame (DebugGame)",
+			"request": "launch",
+			"preLaunchTask": "PlatformPuzzleGame Win64 DebugGame Build",
+			"program": "C:\\Users\\Paul\\Documents\\Unreal Projects\\PlatformPuzzleGame\\Binaries\\Win64\\UE4-Win64-DebugGame.exe",
+			"args": [
+			],
+			"cwd": "C:\\Program Files\\Epic Games\\UE_4.26",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "PlatformPuzzleGame (Development)",
+			"request": "launch",
+			"preLaunchTask": "PlatformPuzzleGame Win64 Development Build",
+			"program": "C:\\Users\\Paul\\Documents\\Unreal Projects\\PlatformPuzzleGame\\Binaries\\Win64\\UE4.exe",
+			"args": [
+			],
+			"cwd": "C:\\Program Files\\Epic Games\\UE_4.26",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "PlatformPuzzleGame (Shipping)",
+			"request": "launch",
+			"preLaunchTask": "PlatformPuzzleGame Win64 Shipping Build",
+			"program": "C:\\Users\\Paul\\Documents\\Unreal Projects\\PlatformPuzzleGame\\Binaries\\Win64\\UE4-Win64-Shipping.exe",
+			"args": [
+			],
+			"cwd": "C:\\Program Files\\Epic Games\\UE_4.26",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "PlatformPuzzleGame (Test)",
+			"request": "launch",
+			"preLaunchTask": "PlatformPuzzleGame Win64 Test Build",
+			"program": "C:\\Users\\Paul\\Documents\\Unreal Projects\\PlatformPuzzleGame\\Binaries\\Win64\\UE4-Win64-Test.exe",
+			"args": [
+			],
+			"cwd": "C:\\Program Files\\Epic Games\\UE_4.26",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "PlatformPuzzleGameEditor (Debug)",
+			"request": "launch",
+			"preLaunchTask": "PlatformPuzzleGameEditor Win64 Debug Build",
+			"program": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Binaries\\Win64\\UE4Editor-Win64-Debug.exe",
+			"args": [
+				"C:\\Users\\Paul\\Documents\\Unreal Projects\\PlatformPuzzleGame\\PlatformPuzzleGame.uproject"
+			],
+			"cwd": "C:\\Program Files\\Epic Games\\UE_4.26",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "PlatformPuzzleGameEditor (DebugGame)",
+			"request": "launch",
+			"preLaunchTask": "PlatformPuzzleGameEditor Win64 DebugGame Build",
+			"program": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Binaries\\Win64\\UE4Editor-Win64-DebugGame.exe",
+			"args": [
+				"C:\\Users\\Paul\\Documents\\Unreal Projects\\PlatformPuzzleGame\\PlatformPuzzleGame.uproject"
+			],
+			"cwd": "C:\\Program Files\\Epic Games\\UE_4.26",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "PlatformPuzzleGameEditor (Development)",
+			"request": "launch",
+			"preLaunchTask": "PlatformPuzzleGameEditor Win64 Development Build",
+			"program": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Binaries\\Win64\\UE4Editor.exe",
+			"args": [
+				"C:\\Users\\Paul\\Documents\\Unreal Projects\\PlatformPuzzleGame\\PlatformPuzzleGame.uproject"
+			],
+			"cwd": "C:\\Program Files\\Epic Games\\UE_4.26",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "Generate Project Files",
+			"type": "clr",
+			"request": "launch",
+			"program": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Binaries\\DotNET\\UnrealBuildTool.exe",
+			"console": "externalTerminal",
+			"args": [
+				"-projectfiles",
+				"-vscode",
+				"-project=C:\\Users\\Paul\\Documents\\Unreal Projects\\PlatformPuzzleGame\\PlatformPuzzleGame.uproject",
+				"-game",
+				"-engine"
+			],
+			"internalConsoleOptions": "openOnSessionStart",
+			"cwd": "C:\\Program Files\\Epic Games\\UE_4.26"
+		}
+	]
+}

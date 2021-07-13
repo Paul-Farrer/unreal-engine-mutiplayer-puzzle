@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\Paul\\Documents\\Unreal Projects\\PlatformPuzzleGame\\Source\\PlatformPuzzleGame\\PlatformPuzzleGame.Build.cs",
+		"C:\\Users\\Paul\\Documents\\Unreal Projects\\PlatformPuzzleGame\\Source\\PlatformPuzzleGame.Target.cs",
+		"C:\\Users\\Paul\\Documents\\Unreal Projects\\PlatformPuzzleGame\\Source\\PlatformPuzzleGameEditor.Target.cs"
+	],
+	"EngineVersion": "4.26.2"
+}

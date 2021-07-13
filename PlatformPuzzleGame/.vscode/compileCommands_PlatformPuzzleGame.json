@@ -1,0 +1,37 @@
+[
+	{
+		"file": "C:\\\\Users\\\\Paul\\\\Documents\\\\Unreal Projects\\\\PlatformPuzzleGame\\\\Source\\\\PlatformPuzzleGame\\\\PlatformPuzzleGame.Build.cs",
+		"command": "cl.exe @\"C:\\Users\\Paul\\Documents\\Unreal Projects\\PlatformPuzzleGame\\.vscode\\compileCommands_PlatformPuzzleGame\\PlatformPuzzleGame.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\Paul\\\\Documents\\\\Unreal Projects\\\\PlatformPuzzleGame\\\\Source\\\\PlatformPuzzleGame\\\\PlatformPuzzleGame.cpp",
+		"command": "cl.exe @\"C:\\Users\\Paul\\Documents\\Unreal Projects\\PlatformPuzzleGame\\.vscode\\compileCommands_PlatformPuzzleGame\\PlatformPuzzleGame.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\Paul\\\\Documents\\\\Unreal Projects\\\\PlatformPuzzleGame\\\\Source\\\\PlatformPuzzleGame\\\\PlatformPuzzleGame.h",
+		"command": "cl.exe @\"C:\\Users\\Paul\\Documents\\Unreal Projects\\PlatformPuzzleGame\\.vscode\\compileCommands_PlatformPuzzleGame\\PlatformPuzzleGame.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\Paul\\\\Documents\\\\Unreal Projects\\\\PlatformPuzzleGame\\\\Source\\\\PlatformPuzzleGame\\\\PlatformPuzzleGameCharacter.cpp",
+		"command": "cl.exe @\"C:\\Users\\Paul\\Documents\\Unreal Projects\\PlatformPuzzleGame\\.vscode\\compileCommands_PlatformPuzzleGame\\PlatformPuzzleGame.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\Paul\\\\Documents\\\\Unreal Projects\\\\PlatformPuzzleGame\\\\Source\\\\PlatformPuzzleGame\\\\PlatformPuzzleGameCharacter.h",
+		"command": "cl.exe @\"C:\\Users\\Paul\\Documents\\Unreal Projects\\PlatformPuzzleGame\\.vscode\\compileCommands_PlatformPuzzleGame\\PlatformPuzzleGame.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\Paul\\\\Documents\\\\Unreal Projects\\\\PlatformPuzzleGame\\\\Source\\\\PlatformPuzzleGame\\\\PlatformPuzzleGameGameMode.cpp",
+		"command": "cl.exe @\"C:\\Users\\Paul\\Documents\\Unreal Projects\\PlatformPuzzleGame\\.vscode\\compileCommands_PlatformPuzzleGame\\PlatformPuzzleGame.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\Paul\\\\Documents\\\\Unreal Projects\\\\PlatformPuzzleGame\\\\Source\\\\PlatformPuzzleGame\\\\PlatformPuzzleGameGameMode.h",
+		"command": "cl.exe @\"C:\\Users\\Paul\\Documents\\Unreal Projects\\PlatformPuzzleGame\\.vscode\\compileCommands_PlatformPuzzleGame\\PlatformPuzzleGame.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	}
+]

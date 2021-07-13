@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "PlatformPuzzleGameEditor Editor Win64 Development (PlatformPuzzleGame)",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "C:\\Users\\Paul\\Documents\\Unreal Projects\\PlatformPuzzleGame\\.vscode\\compileCommands_PlatformPuzzleGame.json",
+            "cStandard": "c17",
+            "cppStandard": "c++17"
+        },
+        {
+            "name": "Win32",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "C:\\Users\\Paul\\Documents\\Unreal Projects\\PlatformPuzzleGame\\.vscode\\compileCommands_Default.json",
+            "cStandard": "c17",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}

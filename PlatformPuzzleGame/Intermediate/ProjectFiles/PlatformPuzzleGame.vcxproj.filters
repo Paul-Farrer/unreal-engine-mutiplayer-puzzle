@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\PlatformPuzzleGame.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{7CC5F938-3260-4695-808B-3AAFDB0B4D3B}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\PlatformPuzzleGame.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\PlatformPuzzleGameEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.ignore" />
+    <None Include="..\..\PlatformPuzzleGame.code-workspace" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{9C13D9D2-2C81-467D-B54B-59F630B2AD77}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\PlatformPuzzleGame">
+      <UniqueIdentifier>{23EE848B-B0F9-47AA-BFF8-8322C1B9BF74}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\PlatformPuzzleGame\Grab.cpp">
+      <Filter>Source\PlatformPuzzleGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PlatformPuzzleGame\Grab.h">
+      <Filter>Source\PlatformPuzzleGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PlatformPuzzleGame\MovingPlatform.cpp">
+      <Filter>Source\PlatformPuzzleGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PlatformPuzzleGame\MovingPlatform.h">
+      <Filter>Source\PlatformPuzzleGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PlatformPuzzleGame\OpenDoor.cpp">
+      <Filter>Source\PlatformPuzzleGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PlatformPuzzleGame\OpenDoor.h">
+      <Filter>Source\PlatformPuzzleGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PlatformPuzzleGame\PlatformingGameInstance.cpp">
+      <Filter>Source\PlatformPuzzleGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PlatformPuzzleGame\PlatformingGameInstance.h">
+      <Filter>Source\PlatformPuzzleGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PlatformPuzzleGame\PlatformPressurePlate.cpp">
+      <Filter>Source\PlatformPuzzleGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PlatformPuzzleGame\PlatformPressurePlate.h">
+      <Filter>Source\PlatformPuzzleGame</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\PlatformPuzzleGame\PlatformPuzzleGame.Build.cs">
+      <Filter>Source\PlatformPuzzleGame</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\PlatformPuzzleGame\PlatformPuzzleGame.cpp">
+      <Filter>Source\PlatformPuzzleGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PlatformPuzzleGame\PlatformPuzzleGame.h">
+      <Filter>Source\PlatformPuzzleGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PlatformPuzzleGame\PlatformPuzzleGameCharacter.cpp">
+      <Filter>Source\PlatformPuzzleGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PlatformPuzzleGame\PlatformPuzzleGameCharacter.h">
+      <Filter>Source\PlatformPuzzleGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PlatformPuzzleGame\PlatformPuzzleGameGameMode.cpp">
+      <Filter>Source\PlatformPuzzleGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PlatformPuzzleGame\PlatformPuzzleGameGameMode.h">
+      <Filter>Source\PlatformPuzzleGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PlatformPuzzleGame\WorldPosition.cpp">
+      <Filter>Source\PlatformPuzzleGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PlatformPuzzleGame\WorldPosition.h">
+      <Filter>Source\PlatformPuzzleGame</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

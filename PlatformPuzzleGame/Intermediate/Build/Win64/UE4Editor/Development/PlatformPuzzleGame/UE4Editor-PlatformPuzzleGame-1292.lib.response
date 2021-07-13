@@ -1,0 +1,28 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-PlatformPuzzleGame-1292.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Paul\Documents\Unreal Projects\PlatformPuzzleGame\Intermediate\Build\Win64\PlatformPuzzleGameEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\Paul\Documents\Unreal Projects\PlatformPuzzleGame\Intermediate\Build\Win64\UE4Editor\Development\PlatformPuzzleGame\Grab.cpp.obj"
+"C:\Users\Paul\Documents\Unreal Projects\PlatformPuzzleGame\Intermediate\Build\Win64\UE4Editor\Development\PlatformPuzzleGame\MovingPlatform.cpp.obj"
+"C:\Users\Paul\Documents\Unreal Projects\PlatformPuzzleGame\Intermediate\Build\Win64\UE4Editor\Development\PlatformPuzzleGame\OpenDoor.cpp.obj"
+"C:\Users\Paul\Documents\Unreal Projects\PlatformPuzzleGame\Intermediate\Build\Win64\UE4Editor\Development\PlatformPuzzleGame\PlatformingGameInstance.cpp.obj"
+"C:\Users\Paul\Documents\Unreal Projects\PlatformPuzzleGame\Intermediate\Build\Win64\UE4Editor\Development\PlatformPuzzleGame\PlatformPressurePlate.cpp.obj"
+"C:\Users\Paul\Documents\Unreal Projects\PlatformPuzzleGame\Intermediate\Build\Win64\UE4Editor\Development\PlatformPuzzleGame\PlatformPuzzleGame.cpp.obj"
+"C:\Users\Paul\Documents\Unreal Projects\PlatformPuzzleGame\Intermediate\Build\Win64\UE4Editor\Development\PlatformPuzzleGame\PlatformPuzzleGameCharacter.cpp.obj"
+"C:\Users\Paul\Documents\Unreal Projects\PlatformPuzzleGame\Intermediate\Build\Win64\UE4Editor\Development\PlatformPuzzleGame\PlatformPuzzleGameGameMode.cpp.obj"
+"C:\Users\Paul\Documents\Unreal Projects\PlatformPuzzleGame\Intermediate\Build\Win64\UE4Editor\Development\PlatformPuzzleGame\Grab.gen.cpp.obj"
+"C:\Users\Paul\Documents\Unreal Projects\PlatformPuzzleGame\Intermediate\Build\Win64\UE4Editor\Development\PlatformPuzzleGame\MovingPlatform.gen.cpp.obj"
+"C:\Users\Paul\Documents\Unreal Projects\PlatformPuzzleGame\Intermediate\Build\Win64\UE4Editor\Development\PlatformPuzzleGame\OpenDoor.gen.cpp.obj"
+"C:\Users\Paul\Documents\Unreal Projects\PlatformPuzzleGame\Intermediate\Build\Win64\UE4Editor\Development\PlatformPuzzleGame\PlatformingGameInstance.gen.cpp.obj"
+"C:\Users\Paul\Documents\Unreal Projects\PlatformPuzzleGame\Intermediate\Build\Win64\UE4Editor\Development\PlatformPuzzleGame\PlatformPressurePlate.gen.cpp.obj"
+"C:\Users\Paul\Documents\Unreal Projects\PlatformPuzzleGame\Intermediate\Build\Win64\UE4Editor\Development\PlatformPuzzleGame\PlatformPuzzleGame.init.gen.cpp.obj"
+"C:\Users\Paul\Documents\Unreal Projects\PlatformPuzzleGame\Intermediate\Build\Win64\UE4Editor\Development\PlatformPuzzleGame\PlatformPuzzleGameCharacter.gen.cpp.obj"
+"C:\Users\Paul\Documents\Unreal Projects\PlatformPuzzleGame\Intermediate\Build\Win64\UE4Editor\Development\PlatformPuzzleGame\PlatformPuzzleGameGameMode.gen.cpp.obj"
+"C:\Users\Paul\Documents\Unreal Projects\PlatformPuzzleGame\Intermediate\Build\Win64\UE4Editor\Development\PlatformPuzzleGame\Default.rc2.res"
+/OUT:"C:\Users\Paul\Documents\Unreal Projects\PlatformPuzzleGame\Intermediate\Build\Win64\UE4Editor\Development\PlatformPuzzleGame\UE4Editor-PlatformPuzzleGame-1292.lib"
+/INCLUDE:IMPLEMENT_MODULE_PlatformPuzzleGame
